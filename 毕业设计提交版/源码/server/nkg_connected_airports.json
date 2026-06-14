@@ -1,0 +1,205 @@
+{
+  "total": 112,
+  "top20": [
+    {
+      "code": "SZX",
+      "name": "深圳宝安国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 10500,
+      "percentage": 0.06309999999999999,
+      "departures": 5250,
+      "arrivals": 5250
+    },
+    {
+      "code": "CAN",
+      "name": "广州白云国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 10380,
+      "percentage": 0.062400000000000004,
+      "departures": 5190,
+      "arrivals": 5190
+    },
+    {
+      "code": "CKG",
+      "name": "重庆江北国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 6720,
+      "percentage": 0.0404,
+      "departures": 3360,
+      "arrivals": 3360
+    },
+    {
+      "code": "KMG",
+      "name": "昆明长水国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 6420,
+      "percentage": 0.038599999999999995,
+      "departures": 3210,
+      "arrivals": 3210
+    },
+    {
+      "code": "XIY",
+      "name": "西安咸阳国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 5820,
+      "percentage": 0.035,
+      "departures": 2910,
+      "arrivals": 2910
+    },
+    {
+      "code": "SHE",
+      "name": "沈阳桃仙国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 5460,
+      "percentage": 0.032799999999999996,
+      "departures": 2730,
+      "arrivals": 2730
+    },
+    {
+      "code": "KWE",
+      "name": "贵阳龙洞堡国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 5460,
+      "percentage": 0.032799999999999996,
+      "departures": 2730,
+      "arrivals": 2730
+    },
+    {
+      "code": "TFU",
+      "name": "成都天府国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 5100,
+      "percentage": 0.030600000000000002,
+      "departures": 2550,
+      "arrivals": 2550
+    },
+    {
+      "code": "LHW",
+      "name": "兰州中川国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 5040,
+      "percentage": 0.030299999999999997,
+      "departures": 2520,
+      "arrivals": 2520
+    },
+    {
+      "code": "XMN",
+      "name": "厦门高崎国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 4440,
+      "percentage": 0.026699999999999998,
+      "departures": 2220,
+      "arrivals": 2220
+    },
+    {
+      "code": "DLC",
+      "name": "大连周水子国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 4410,
+      "percentage": 0.0265,
+      "departures": 2310,
+      "arrivals": 2100
+    },
+    {
+      "code": "CGQ",
+      "name": "长春龙嘉国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 4200,
+      "percentage": 0.0252,
+      "departures": 2100,
+      "arrivals": 2100
+    },
+    {
+      "code": "HRB",
+      "name": "哈尔滨太平国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3960,
+      "percentage": 0.023799999999999998,
+      "departures": 1980,
+      "arrivals": 1980
+    },
+    {
+      "code": "SYX",
+      "name": "三亚凤凰国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3780,
+      "percentage": 0.0227,
+      "departures": 1890,
+      "arrivals": 1890
+    },
+    {
+      "code": "CTU",
+      "name": "成都双流国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3660,
+      "percentage": 0.022000000000000002,
+      "departures": 1830,
+      "arrivals": 1830
+    },
+    {
+      "code": "HET",
+      "name": "呼和浩特白塔国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3540,
+      "percentage": 0.0213,
+      "departures": 1770,
+      "arrivals": 1770
+    },
+    {
+      "code": "TYN",
+      "name": "太原武宿国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3360,
+      "percentage": 0.0202,
+      "departures": 1680,
+      "arrivals": 1680
+    },
+    {
+      "code": "URC",
+      "name": "乌鲁木齐天山国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3180,
+      "percentage": 0.0191,
+      "departures": 1590,
+      "arrivals": 1590
+    },
+    {
+      "code": "NNG",
+      "name": "南宁吴圩国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3180,
+      "percentage": 0.0191,
+      "departures": 1590,
+      "arrivals": 1590
+    },
+    {
+      "code": "CSX",
+      "name": "长沙黄花国际机场",
+      "region": "省外",
+      "classification": "本省(直辖市)外机场",
+      "total": 3120,
+      "percentage": 0.0187,
+      "departures": 1560,
+      "arrivals": 1560
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "weekRange": "2026/05/24 - 2026/05/30(第9周)",
+  "regions": [
+    {
+      "name": "广东",
+      "category": "省外",
+      "total": 1318,
+      "departures": 652,
+      "arrivals": 666
+    },
+    {
+      "name": "北京",
+      "category": "省外",
+      "total": 618,
+      "departures": 314,
+      "arrivals": 304
+    },
+    {
+      "name": "四川",
+      "category": "省外",
+      "total": 550,
+      "departures": 274,
+      "arrivals": 276
+    },
+    {
+      "name": "云南",
+      "category": "省外",
+      "total": 382,
+      "departures": 191,
+      "arrivals": 191
+    },
+    {
+      "name": "山东",
+      "category": "省外",
+      "total": 327,
+      "departures": 169,
+      "arrivals": 158
+    },
+    {
+      "name": "辽宁",
+      "category": "省外",
+      "total": 318,
+      "departures": 160,
+      "arrivals": 158
+    },
+    {
+      "name": "陕西",
+      "category": "省外",
+      "total": 294,
+      "departures": 147,
+      "arrivals": 147
+    },
+    {
+      "name": "重庆",
+      "category": "省外",
+      "total": 256,
+      "departures": 128,
+      "arrivals": 128
+    },
+    {
+      "name": "湖北",
+      "category": "省外",
+      "total": 233,
+      "departures": 120,
+      "arrivals": 113
+    },
+    {
+      "name": "贵州",
+      "category": "省外",
+      "total": 192,
+      "departures": 96,
+      "arrivals": 96
+    },
+    {
+      "name": "山西",
+      "category": "省外",
+      "total": 182,
+      "departures": 91,
+      "arrivals": 91
+    },
+    {
+      "name": "海南",
+      "category": "省外",
+      "total": 182,
+      "departures": 91,
+      "arrivals": 91
+    },
+    {
+      "name": "福建",
+      "category": "省外",
+      "total": 167,
+      "departures": 86,
+      "arrivals": 81
+    },
+    {
+      "name": "河南",
+      "category": "省外",
+      "total": 166,
+      "departures": 84,
+      "arrivals": 82
+    },
+    {
+      "name": "广西",
+      "category": "省外",
+      "total": 165,
+      "departures": 83,
+      "arrivals": 82
+    },
+    {
+      "name": "黑龙江",
+      "category": "省外",
+      "total": 154,
+      "departures": 77,
+      "arrivals": 77
+    },
+    {
+      "name": "甘肃",
+      "category": "省外",
+      "total": 146,
+      "departures": 73,
+      "arrivals": 73
+    },
+    {
+      "name": "中国香港",
+      "category": "港澳台",
+      "total": 126,
+      "departures": 63,
+      "arrivals": 63
+    },
+    {
+      "name": "吉林",
+      "category": "省外",
+      "total": 126,
+      "departures": 63,
+      "arrivals": 63
+    },
+    {
+      "name": "新疆",
+      "category": "省外",
+      "total": 118,
+      "departures": 59,
+      "arrivals": 59
+    },
+    {
+      "name": "天津",
+      "category": "省外",
+      "total": 108,
+      "departures": 54,
+      "arrivals": 54
+    },
+    {
+      "name": "内蒙古",
+      "category": "省外",
+      "total": 104,
+      "departures": 52,
+      "arrivals": 52
+    },
+    {
+      "name": "宁夏",
+      "category": "省外",
+      "total": 90,
+      "departures": 45,
+      "arrivals": 45
+    },
+    {
+      "name": "泰国",
+      "category": "国际",
+      "total": 84,
+      "departures": 44,
+      "arrivals": 40
+    },
+    {
+      "name": "韩国",
+      "category": "国际",
+      "total": 81,
+      "departures": 43,
+      "arrivals": 38
+    },
+    {
+      "name": "马来西亚",
+      "category": "国际",
+      "total": 76,
+      "departures": 38,
+      "arrivals": 38
+    },
+    {
+      "name": "河北",
+      "category": "省外",
+      "total": 76,
+      "departures": 38,
+      "arrivals": 38
+    },
+    {
+      "name": "日本",
+      "category": "国际",
+      "total": 64,
+      "departures": 32,
+      "arrivals": 32
+    },
+    {
+      "name": "湖南",
+      "category": "省外",
+      "total": 62,
+      "departures": 31,
+      "arrivals": 31
+    },
+    {
+      "name": "新加坡",
+      "category": "国际",
+      "total": 50,
+      "departures": 25,
+      "arrivals": 25
+    },
+    {
+      "name": "越南",
+      "category": "国际",
+      "total": 46,
+      "departures": 23,
+      "arrivals": 23
+    },
+    {
+      "name": "中国澳门",
+      "category": "港澳台",
+      "total": 42,
+      "departures": 21,
+      "arrivals": 21
+    },
+    {
+      "name": "青海",
+      "category": "省外",
+      "total": 36,
+      "departures": 18,
+      "arrivals": 18
+    },
+    {
+      "name": "哈萨克斯坦",
+      "category": "国际",
+      "total": 27,
+      "departures": 20,
+      "arrivals": 7
+    },
+    {
+      "name": "阿联酋",
+      "category": "国际",
+      "total": 23,
+      "departures": 10,
+      "arrivals": 13
+    },
+    {
+      "name": "中国台湾",
+      "category": "港澳台",
+      "total": 22,
+      "departures": 11,
+      "arrivals": 11
+    },
+    {
+      "name": "乌兹别克斯坦",
+      "category": "国际",
+      "total": 20,
+      "departures": 13,
+      "arrivals": 7
+    },
+    {
+      "name": "江苏",
+      "category": "省外",
+      "total": 18,
+      "departures": 14,
+      "arrivals": 4
+    },
+    {
+      "name": "菲律宾",
+      "category": "国际",
+      "total": 16,
+      "departures": 8,
+      "arrivals": 8
+    },
+    {
+      "name": "美国",
+      "category": "国际",
+      "total": 14,
+      "departures": 6,
+      "arrivals": 8
+    },
+    {
+      "name": "印度",
+      "category": "国际",
+      "total": 14,
+      "departures": 11,
+      "arrivals": 3
+    },
+    {
+      "name": "江西",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "name": "西班牙",
+      "category": "国际",
+      "total": 12,
+      "departures": 4,
+      "arrivals": 8
+    },
+    {
+      "name": "澳大利亚",
+      "category": "国际",
+      "total": 10,
+      "departures": 5,
+      "arrivals": 5
+    },
+    {
+      "name": "匈牙利",
+      "category": "国际",
+      "total": 9,
+      "departures": 0,
+      "arrivals": 9
+    },
+    {
+      "name": "俄罗斯",
+      "category": "国际",
+      "total": 8,
+      "departures": 4,
+      "arrivals": 4
+    },
+    {
+      "name": "老挝",
+      "category": "国际",
+      "total": 8,
+      "departures": 4,
+      "arrivals": 4
+    },
+    {
+      "name": "卡塔尔",
+      "category": "国际",
+      "total": 8,
+      "departures": 4,
+      "arrivals": 4
+    },
+    {
+      "name": "丹麦",
+      "category": "国际",
+      "total": 7,
+      "departures": 0,
+      "arrivals": 7
+    },
+    {
+      "name": "上海",
+      "category": "省外",
+      "total": 7,
+      "departures": 2,
+      "arrivals": 5
+    },
+    {
+      "name": "埃及",
+      "category": "国际",
+      "total": 6,
+      "departures": 3,
+      "arrivals": 3
+    },
+    {
+      "name": "缅甸",
+      "category": "国际",
+      "total": 6,
+      "departures": 3,
+      "arrivals": 3
+    },
+    {
+      "name": "安徽",
+      "category": "省外",
+      "total": 6,
+      "departures": 3,
+      "arrivals": 3
+    },
+    {
+      "name": "比利时",
+      "category": "国际",
+      "total": 4,
+      "departures": 1,
+      "arrivals": 3
+    },
+    {
+      "name": "葡萄牙",
+      "category": "国际",
+      "total": 4,
+      "departures": 2,
+      "arrivals": 2
+    },
+    {
+      "name": "新西兰",
+      "category": "国际",
+      "total": 4,
+      "departures": 2,
+      "arrivals": 2
+    },
+    {
+      "name": "法国",
+      "category": "国际",
+      "total": 3,
+      "departures": 3,
+      "arrivals": 0
+    },
+    {
+      "name": "印度尼西亚",
+      "category": "国际",
+      "total": 2,
+      "departures": 1,
+      "arrivals": 1
+    },
+    {
+      "name": "文莱",
+      "category": "国际",
+      "total": 2,
+      "departures": 1,
+      "arrivals": 1
+    }
+  ]
+}

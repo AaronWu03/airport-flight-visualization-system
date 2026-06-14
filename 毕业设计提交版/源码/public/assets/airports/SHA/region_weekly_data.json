@@ -1,0 +1,222 @@
+{
+  "weekRange": "2026/05/24 - 2026/05/30(第9周)",
+  "regions": [
+    {
+      "name": "广东",
+      "category": "省外",
+      "total": 1313,
+      "departures": 653,
+      "arrivals": 660
+    },
+    {
+      "name": "北京",
+      "category": "省外",
+      "total": 674,
+      "departures": 337,
+      "arrivals": 337
+    },
+    {
+      "name": "福建",
+      "category": "省外",
+      "total": 429,
+      "departures": 218,
+      "arrivals": 211
+    },
+    {
+      "name": "山东",
+      "category": "省外",
+      "total": 355,
+      "departures": 176,
+      "arrivals": 179
+    },
+    {
+      "name": "四川",
+      "category": "省外",
+      "total": 353,
+      "departures": 180,
+      "arrivals": 173
+    },
+    {
+      "name": "陕西",
+      "category": "省外",
+      "total": 238,
+      "departures": 119,
+      "arrivals": 119
+    },
+    {
+      "name": "云南",
+      "category": "省外",
+      "total": 204,
+      "departures": 102,
+      "arrivals": 102
+    },
+    {
+      "name": "重庆",
+      "category": "省外",
+      "total": 174,
+      "departures": 87,
+      "arrivals": 87
+    },
+    {
+      "name": "新疆",
+      "category": "省外",
+      "total": 172,
+      "departures": 84,
+      "arrivals": 88
+    },
+    {
+      "name": "山西",
+      "category": "省外",
+      "total": 146,
+      "departures": 73,
+      "arrivals": 73
+    },
+    {
+      "name": "湖南",
+      "category": "省外",
+      "total": 135,
+      "departures": 67,
+      "arrivals": 68
+    },
+    {
+      "name": "湖北",
+      "category": "省外",
+      "total": 126,
+      "departures": 63,
+      "arrivals": 63
+    },
+    {
+      "name": "海南",
+      "category": "省外",
+      "total": 126,
+      "departures": 63,
+      "arrivals": 63
+    },
+    {
+      "name": "天津",
+      "category": "省外",
+      "total": 118,
+      "departures": 59,
+      "arrivals": 59
+    },
+    {
+      "name": "贵州",
+      "category": "省外",
+      "total": 107,
+      "departures": 54,
+      "arrivals": 53
+    },
+    {
+      "name": "广西",
+      "category": "省外",
+      "total": 105,
+      "departures": 49,
+      "arrivals": 56
+    },
+    {
+      "name": "中国香港",
+      "category": "港澳台",
+      "total": 84,
+      "departures": 42,
+      "arrivals": 42
+    },
+    {
+      "name": "河南",
+      "category": "省外",
+      "total": 77,
+      "departures": 42,
+      "arrivals": 35
+    },
+    {
+      "name": "中国澳门",
+      "category": "港澳台",
+      "total": 72,
+      "departures": 36,
+      "arrivals": 36
+    },
+    {
+      "name": "韩国",
+      "category": "国际",
+      "total": 56,
+      "departures": 28,
+      "arrivals": 28
+    },
+    {
+      "name": "日本",
+      "category": "国际",
+      "total": 56,
+      "departures": 28,
+      "arrivals": 28
+    },
+    {
+      "name": "辽宁",
+      "category": "省外",
+      "total": 56,
+      "departures": 28,
+      "arrivals": 28
+    },
+    {
+      "name": "中国台湾",
+      "category": "港澳台",
+      "total": 52,
+      "departures": 26,
+      "arrivals": 26
+    },
+    {
+      "name": "江西",
+      "category": "省外",
+      "total": 48,
+      "departures": 24,
+      "arrivals": 24
+    },
+    {
+      "name": "内蒙古",
+      "category": "省外",
+      "total": 42,
+      "departures": 21,
+      "arrivals": 21
+    },
+    {
+      "name": "甘肃",
+      "category": "省外",
+      "total": 36,
+      "departures": 18,
+      "arrivals": 18
+    },
+    {
+      "name": "宁夏",
+      "category": "省外",
+      "total": 34,
+      "departures": 17,
+      "arrivals": 17
+    },
+    {
+      "name": "河北",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "name": "黑龙江",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "name": "吉林",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "name": "青海",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    }
+  ]
+}

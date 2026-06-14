@@ -1,0 +1,545 @@
+{
+  "weekRange": "2026/05/24 - 2026/05/30(第9周)",
+  "airports": [
+    {
+      "iataCode": "SZX",
+      "name": "深圳宝安国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 604,
+      "departures": 302,
+      "arrivals": 302
+    },
+    {
+      "iataCode": "PEK",
+      "name": "北京首都国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 534,
+      "departures": 267,
+      "arrivals": 267
+    },
+    {
+      "iataCode": "CAN",
+      "name": "广州白云国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 518,
+      "departures": 259,
+      "arrivals": 259
+    },
+    {
+      "iataCode": "XMN",
+      "name": "厦门高崎国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 247,
+      "departures": 127,
+      "arrivals": 120
+    },
+    {
+      "iataCode": "XIY",
+      "name": "西安咸阳国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 238,
+      "departures": 119,
+      "arrivals": 119
+    },
+    {
+      "iataCode": "TAO",
+      "name": "青岛胶东国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 200,
+      "departures": 95,
+      "arrivals": 105
+    },
+    {
+      "iataCode": "KMG",
+      "name": "昆明长水国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 176,
+      "departures": 88,
+      "arrivals": 88
+    },
+    {
+      "iataCode": "CKG",
+      "name": "重庆江北国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 174,
+      "departures": 87,
+      "arrivals": 87
+    },
+    {
+      "iataCode": "CTU",
+      "name": "成都双流国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 171,
+      "departures": 82,
+      "arrivals": 89
+    },
+    {
+      "iataCode": "TFU",
+      "name": "成都天府国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 168,
+      "departures": 91,
+      "arrivals": 77
+    },
+    {
+      "iataCode": "URC",
+      "name": "乌鲁木齐天山国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 148,
+      "departures": 74,
+      "arrivals": 74
+    },
+    {
+      "iataCode": "PKX",
+      "name": "北京大兴国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 140,
+      "departures": 70,
+      "arrivals": 70
+    },
+    {
+      "iataCode": "TYN",
+      "name": "太原武宿国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 132,
+      "departures": 66,
+      "arrivals": 66
+    },
+    {
+      "iataCode": "TSN",
+      "name": "天津滨海国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 118,
+      "departures": 59,
+      "arrivals": 59
+    },
+    {
+      "iataCode": "WUH",
+      "name": "武汉天河国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 112,
+      "departures": 56,
+      "arrivals": 56
+    },
+    {
+      "iataCode": "KWE",
+      "name": "贵阳龙洞堡国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 107,
+      "departures": 54,
+      "arrivals": 53
+    },
+    {
+      "iataCode": "CSX",
+      "name": "长沙黄花国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 107,
+      "departures": 53,
+      "arrivals": 54
+    },
+    {
+      "iataCode": "ZUH",
+      "name": "珠海金湾机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 91,
+      "departures": 42,
+      "arrivals": 49
+    },
+    {
+      "iataCode": "JJN",
+      "name": "泉州晋江国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 90,
+      "departures": 45,
+      "arrivals": 45
+    },
+    {
+      "iataCode": "SWA",
+      "name": "揭阳潮汕国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 86,
+      "departures": 43,
+      "arrivals": 43
+    },
+    {
+      "iataCode": "HKG",
+      "name": "中国香港国际机场",
+      "region": "港澳台",
+      "category": "港澳台",
+      "total": 84,
+      "departures": 42,
+      "arrivals": 42
+    },
+    {
+      "iataCode": "SYX",
+      "name": "三亚凤凰国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 84,
+      "departures": 42,
+      "arrivals": 42
+    },
+    {
+      "iataCode": "FOC",
+      "name": "福州长乐国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 78,
+      "departures": 39,
+      "arrivals": 39
+    },
+    {
+      "iataCode": "NNG",
+      "name": "南宁吴圩国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 77,
+      "departures": 35,
+      "arrivals": 42
+    },
+    {
+      "iataCode": "CGO",
+      "name": "郑州新郑国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 77,
+      "departures": 42,
+      "arrivals": 35
+    },
+    {
+      "iataCode": "MFM",
+      "name": "中国澳门国际机场",
+      "region": "港澳台",
+      "category": "港澳台",
+      "total": 72,
+      "departures": 36,
+      "arrivals": 36
+    },
+    {
+      "iataCode": "YNT",
+      "name": "烟台蓬莱国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 63,
+      "departures": 35,
+      "arrivals": 28
+    },
+    {
+      "iataCode": "HND",
+      "name": "羽田机场",
+      "region": "国际",
+      "category": "国际",
+      "total": 56,
+      "departures": 28,
+      "arrivals": 28
+    },
+    {
+      "iataCode": "GMP",
+      "name": "金浦国际机场",
+      "region": "国际",
+      "category": "国际",
+      "total": 56,
+      "departures": 28,
+      "arrivals": 28
+    },
+    {
+      "iataCode": "TSA",
+      "name": "台北松山机场",
+      "region": "港澳台",
+      "category": "港澳台",
+      "total": 52,
+      "departures": 26,
+      "arrivals": 26
+    },
+    {
+      "iataCode": "HET",
+      "name": "呼和浩特白塔国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 42,
+      "departures": 21,
+      "arrivals": 21
+    },
+    {
+      "iataCode": "HAK",
+      "name": "海口美兰国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 42,
+      "departures": 21,
+      "arrivals": 21
+    },
+    {
+      "iataCode": "LHW",
+      "name": "兰州中川国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 36,
+      "departures": 18,
+      "arrivals": 18
+    },
+    {
+      "iataCode": "TNA",
+      "name": "济南遥墙国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 36,
+      "departures": 18,
+      "arrivals": 18
+    },
+    {
+      "iataCode": "INC",
+      "name": "银川河东国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 34,
+      "departures": 17,
+      "arrivals": 17
+    },
+    {
+      "iataCode": "HRB",
+      "name": "哈尔滨太平国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "DLC",
+      "name": "大连周水子国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "WEH",
+      "name": "威海大水泊国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "KWL",
+      "name": "桂林两江国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "SHE",
+      "name": "沈阳桃仙国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "SJW",
+      "name": "石家庄正定国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "XNN",
+      "name": "西宁曹家堡国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "CGQ",
+      "name": "长春龙嘉国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 28,
+      "departures": 14,
+      "arrivals": 14
+    },
+    {
+      "iataCode": "SQJ",
+      "name": "三明沙县机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "DOY",
+      "name": "东营胜利机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "LYI",
+      "name": "临沂启阳国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "LJG",
+      "name": "丽江三义国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "FUO",
+      "name": "佛山沙堤机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "KHN",
+      "name": "南昌昌北国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "JGS",
+      "name": "吉安井冈山机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "DAT",
+      "name": "大同云冈国际机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "DLU",
+      "name": "大理凤仪机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "CGD",
+      "name": "常德桃花源机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "KRL",
+      "name": "库尔勒梨城机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "LZO",
+      "name": "泸州云龙机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "HNY",
+      "name": "衡阳南岳机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "XFN",
+      "name": "襄阳刘集机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "KOW",
+      "name": "赣州黄金机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 14,
+      "departures": 7,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "AAT",
+      "name": "阿勒泰雪都机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 10,
+      "departures": 3,
+      "arrivals": 7
+    },
+    {
+      "iataCode": "YIC",
+      "name": "宜春明月山机场",
+      "region": "省外",
+      "category": "省外",
+      "total": 6,
+      "departures": 3,
+      "arrivals": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "mcp-proxy.js",
+  "scripts": {
+    "start": "node mcp-proxy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "axios": "^1.15.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "mongoose": "^8.0.0",
+    "xlsx": "^0.18.5"
+  }
+}

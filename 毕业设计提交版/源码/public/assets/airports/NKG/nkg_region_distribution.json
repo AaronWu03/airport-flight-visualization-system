@@ -1,0 +1,365 @@
+{
+  "total": 45,
+  "regions": [
+    {
+      "name": "广东",
+      "type": "domestic",
+      "total": 27180,
+      "percentage": 0.1635,
+      "departures": 13590,
+      "arrivals": 13590
+    },
+    {
+      "name": "云南",
+      "type": "domestic",
+      "total": 11460,
+      "percentage": 0.0689,
+      "departures": 5730,
+      "arrivals": 5730
+    },
+    {
+      "name": "四川",
+      "type": "domestic",
+      "total": 10680,
+      "percentage": 0.0642,
+      "departures": 5340,
+      "arrivals": 5340
+    },
+    {
+      "name": "福建",
+      "type": "domestic",
+      "total": 9960,
+      "percentage": 0.0599,
+      "departures": 4860,
+      "arrivals": 5100
+    },
+    {
+      "name": "辽宁",
+      "type": "domestic",
+      "total": 9870,
+      "percentage": 0.0593,
+      "departures": 5040,
+      "arrivals": 4830
+    },
+    {
+      "name": "重庆",
+      "type": "domestic",
+      "total": 6900,
+      "percentage": 0.0415,
+      "departures": 3450,
+      "arrivals": 3450
+    },
+    {
+      "name": "贵州",
+      "type": "domestic",
+      "total": 6660,
+      "percentage": 0.04,
+      "departures": 3330,
+      "arrivals": 3330
+    },
+    {
+      "name": "海南",
+      "type": "domestic",
+      "total": 6480,
+      "percentage": 0.038900000000000004,
+      "departures": 3240,
+      "arrivals": 3240
+    },
+    {
+      "name": "陕西",
+      "type": "domestic",
+      "total": 6480,
+      "percentage": 0.038900000000000004,
+      "departures": 3240,
+      "arrivals": 3240
+    },
+    {
+      "name": "广西",
+      "type": "domestic",
+      "total": 6450,
+      "percentage": 0.0388,
+      "departures": 3330,
+      "arrivals": 3120
+    },
+    {
+      "name": "内蒙古",
+      "type": "domestic",
+      "total": 5040,
+      "percentage": 0.030299999999999997,
+      "departures": 2520,
+      "arrivals": 2520
+    },
+    {
+      "name": "山西",
+      "type": "domestic",
+      "total": 5040,
+      "percentage": 0.030299999999999997,
+      "departures": 2520,
+      "arrivals": 2520
+    },
+    {
+      "name": "甘肃",
+      "type": "domestic",
+      "total": 5040,
+      "percentage": 0.030299999999999997,
+      "departures": 2520,
+      "arrivals": 2520
+    },
+    {
+      "name": "吉林",
+      "type": "domestic",
+      "total": 4620,
+      "percentage": 0.0278,
+      "departures": 2310,
+      "arrivals": 2310
+    },
+    {
+      "name": "湖南",
+      "type": "domestic",
+      "total": 4140,
+      "percentage": 0.024900000000000002,
+      "departures": 2070,
+      "arrivals": 2070
+    },
+    {
+      "name": "北京",
+      "type": "domestic",
+      "total": 4080,
+      "percentage": 0.0245,
+      "departures": 2040,
+      "arrivals": 2040
+    },
+    {
+      "name": "黑龙江",
+      "type": "domestic",
+      "total": 3960,
+      "percentage": 0.023799999999999998,
+      "departures": 1980,
+      "arrivals": 1980
+    },
+    {
+      "name": "山东",
+      "type": "domestic",
+      "total": 3780,
+      "percentage": 0.0227,
+      "departures": 1890,
+      "arrivals": 1890
+    },
+    {
+      "name": "新疆",
+      "type": "domestic",
+      "total": 3540,
+      "percentage": 0.0213,
+      "departures": 1770,
+      "arrivals": 1770
+    },
+    {
+      "name": "中国香港",
+      "type": "domestic",
+      "total": 2100,
+      "percentage": 0.0126,
+      "departures": 1050,
+      "arrivals": 1050
+    },
+    {
+      "name": "韩国",
+      "type": "international",
+      "total": 1920,
+      "percentage": 0.0115,
+      "departures": 960,
+      "arrivals": 960
+    },
+    {
+      "name": "湖北",
+      "type": "domestic",
+      "total": 1890,
+      "percentage": 0.0113,
+      "departures": 1050,
+      "arrivals": 840
+    },
+    {
+      "name": "美国",
+      "type": "international",
+      "total": 1710,
+      "percentage": 0.0102,
+      "departures": 840,
+      "arrivals": 870
+    },
+    {
+      "name": "泰国",
+      "type": "international",
+      "total": 1680,
+      "percentage": 0.0101,
+      "departures": 840,
+      "arrivals": 840
+    },
+    {
+      "name": "河北",
+      "type": "domestic",
+      "total": 1680,
+      "percentage": 0.0101,
+      "departures": 840,
+      "arrivals": 840
+    },
+    {
+      "name": "青海",
+      "type": "domestic",
+      "total": 1500,
+      "percentage": 0.009000000000000001,
+      "departures": 750,
+      "arrivals": 750
+    },
+    {
+      "name": "中国澳门",
+      "type": "domestic",
+      "total": 1260,
+      "percentage": 0.0075,
+      "departures": 630,
+      "arrivals": 630
+    },
+    {
+      "name": "宁夏",
+      "type": "domestic",
+      "total": 1260,
+      "percentage": 0.0075,
+      "departures": 630,
+      "arrivals": 630
+    },
+    {
+      "name": "越南",
+      "type": "international",
+      "total": 1170,
+      "percentage": 0.006999999999999999,
+      "departures": 540,
+      "arrivals": 630
+    },
+    {
+      "name": "马来西亚",
+      "type": "international",
+      "total": 1080,
+      "percentage": 0.0064,
+      "departures": 540,
+      "arrivals": 540
+    },
+    {
+      "name": "江西",
+      "type": "domestic",
+      "total": 1080,
+      "percentage": 0.0064,
+      "departures": 480,
+      "arrivals": 600
+    },
+    {
+      "name": "新加坡",
+      "type": "international",
+      "total": 1020,
+      "percentage": 0.0060999999999999995,
+      "departures": 510,
+      "arrivals": 510
+    },
+    {
+      "name": "河南",
+      "type": "domestic",
+      "total": 1020,
+      "percentage": 0.0060999999999999995,
+      "departures": 510,
+      "arrivals": 510
+    },
+    {
+      "name": "中国台湾",
+      "type": "domestic",
+      "total": 720,
+      "percentage": 0.0043,
+      "departures": 360,
+      "arrivals": 360
+    },
+    {
+      "name": "印度尼西亚",
+      "type": "international",
+      "total": 600,
+      "percentage": 0.0036,
+      "departures": 300,
+      "arrivals": 300
+    },
+    {
+      "name": "日本",
+      "type": "international",
+      "total": 540,
+      "percentage": 0.0032,
+      "departures": 270,
+      "arrivals": 270
+    },
+    {
+      "name": "上海",
+      "type": "domestic",
+      "total": 480,
+      "percentage": 0.0028000000000000004,
+      "departures": 240,
+      "arrivals": 240
+    },
+    {
+      "name": "浙江",
+      "type": "domestic",
+      "total": 420,
+      "percentage": 0.0025,
+      "departures": 210,
+      "arrivals": 210
+    },
+    {
+      "name": "天津",
+      "type": "domestic",
+      "total": 420,
+      "percentage": 0.0025,
+      "departures": 210,
+      "arrivals": 210
+    },
+    {
+      "name": "澳大利亚",
+      "type": "international",
+      "total": 360,
+      "percentage": 0.0021,
+      "departures": 180,
+      "arrivals": 180
+    },
+    {
+      "name": "菲律宾",
+      "type": "international",
+      "total": 300,
+      "percentage": 0.0018,
+      "departures": 150,
+      "arrivals": 150
+    },
+    {
+      "name": "柬埔寨",
+      "type": "international",
+      "total": 180,
+      "percentage": 0.001,
+      "departures": 90,
+      "arrivals": 90
+    },
+    {
+      "name": "卢森堡",
+      "type": "international",
+      "total": 180,
+      "percentage": 0.001,
+      "departures": 90,
+      "arrivals": 90
+    },
+    {
+      "name": "西藏",
+      "type": "domestic",
+      "total": 180,
+      "percentage": 0.001,
+      "departures": 90,
+      "arrivals": 90
+    },
+    {
+      "name": "法国",
+      "type": "international",
+      "total": 60,
+      "percentage": 0.0003,
+      "departures": 30,
+      "arrivals": 30
+    }
+  ]
+}

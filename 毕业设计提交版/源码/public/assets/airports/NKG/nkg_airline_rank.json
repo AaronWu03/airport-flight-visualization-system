@@ -1,0 +1,165 @@
+{
+  "total": 48,
+  "top20": [
+    {
+      "code": "MU",
+      "name": "东方航空",
+      "totalSlots": 41520,
+      "percentage": 0.2498,
+      "departures": 20760,
+      "arrivals": 20760
+    },
+    {
+      "code": "ZH",
+      "name": "深圳航空",
+      "totalSlots": 17880,
+      "percentage": 0.1076,
+      "departures": 8940,
+      "arrivals": 8940
+    },
+    {
+      "code": "HO",
+      "name": "吉祥航空",
+      "totalSlots": 16620,
+      "percentage": 0.1,
+      "departures": 8520,
+      "arrivals": 8100
+    },
+    {
+      "code": "CZ",
+      "name": "南方航空",
+      "totalSlots": 16380,
+      "percentage": 0.09849999999999999,
+      "departures": 8190,
+      "arrivals": 8190
+    },
+    {
+      "code": "CF",
+      "name": "邮政航空",
+      "totalSlots": 11610,
+      "percentage": 0.0698,
+      "departures": 5790,
+      "arrivals": 5820
+    },
+    {
+      "code": "MF",
+      "name": "厦门航空",
+      "totalSlots": 7140,
+      "percentage": 0.0429,
+      "departures": 3570,
+      "arrivals": 3570
+    },
+    {
+      "code": "HU",
+      "name": "海南航空",
+      "totalSlots": 7140,
+      "percentage": 0.0429,
+      "departures": 3570,
+      "arrivals": 3570
+    },
+    {
+      "code": "SC",
+      "name": "山东航空",
+      "totalSlots": 6060,
+      "percentage": 0.0364,
+      "departures": 3030,
+      "arrivals": 3030
+    },
+    {
+      "code": "3U",
+      "name": "四川航空",
+      "totalSlots": 5520,
+      "percentage": 0.0332,
+      "departures": 2760,
+      "arrivals": 2760
+    },
+    {
+      "code": "CA",
+      "name": "中国国航",
+      "totalSlots": 4920,
+      "percentage": 0.0296,
+      "departures": 2460,
+      "arrivals": 2460
+    },
+    {
+      "code": "AQ",
+      "name": "九元航空",
+      "totalSlots": 2520,
+      "percentage": 0.0151,
+      "departures": 1260,
+      "arrivals": 1260
+    },
+    {
+      "code": "9C",
+      "name": "春秋航空",
+      "totalSlots": 2400,
+      "percentage": 0.0144,
+      "departures": 1200,
+      "arrivals": 1200
+    },
+    {
+      "code": "JD",
+      "name": "首都航空",
+      "totalSlots": 2340,
+      "percentage": 0.013999999999999999,
+      "departures": 1170,
+      "arrivals": 1170
+    },
+    {
+      "code": "A6",
+      "name": "湖南航空",
+      "totalSlots": 1920,
+      "percentage": 0.0115,
+      "departures": 960,
+      "arrivals": 960
+    },
+    {
+      "code": "NS",
+      "name": "河北航空",
+      "totalSlots": 1680,
+      "percentage": 0.0101,
+      "departures": 840,
+      "arrivals": 840
+    },
+    {
+      "code": "PN",
+      "name": "西部航空",
+      "totalSlots": 1680,
+      "percentage": 0.0101,
+      "departures": 840,
+      "arrivals": 840
+    },
+    {
+      "code": "Y8",
+      "name": "金鹏航空",
+      "totalSlots": 1290,
+      "percentage": 0.0077,
+      "departures": 630,
+      "arrivals": 660
+    },
+    {
+      "code": "GS",
+      "name": "天津航空",
+      "totalSlots": 1260,
+      "percentage": 0.0075,
+      "departures": 630,
+      "arrivals": 630
+    },
+    {
+      "code": "KY",
+      "name": "昆明航空",
+      "totalSlots": 1260,
+      "percentage": 0.0075,
+      "departures": 630,
+      "arrivals": 630
+    },
+    {
+      "code": "QW",
+      "name": "青岛航空",
+      "totalSlots": 1200,
+      "percentage": 0.0072,
+      "departures": 600,
+      "arrivals": 600
+    }
+  ]
+}

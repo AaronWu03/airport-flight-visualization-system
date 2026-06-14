@@ -1,0 +1,2857 @@
+{
+  "airports": [
+    {
+      "cityName": "广州白云",
+      "iataCode": "CAN",
+      "latitude": 23.3924,
+      "longitude": 113.2988,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ6790",
+        "CZ6792",
+        "AQ1023",
+        "HU7006",
+        "CZ6785",
+        "HU7009",
+        "HU7011",
+        "HU7003",
+        "HU7004",
+        "HU7010",
+        "CZ6778",
+        "CZ6774",
+        "CZ6777",
+        "ZH8992",
+        "AQ1024",
+        "CZ6771",
+        "HU7008",
+        "CZ6773",
+        "HU7002",
+        "CZ6784",
+        "HU7012",
+        "CZ6772",
+        "CZ6776",
+        "HU7007",
+        "HU7001",
+        "CZ6783",
+        "CZ6791",
+        "HU7005",
+        "ZH8991",
+        "CZ6786",
+        "ZH8993",
+        "ZH8994",
+        "CZ6787",
+        "CZ6789"
+      ],
+      "airlines": [
+        "深圳航空",
+        "海南航空",
+        "中国南方航空",
+        "九元航空"
+      ],
+      "times": [
+        "00:20",
+        "00:55",
+        "06:40",
+        "07:00",
+        "07:40",
+        "08:05",
+        "08:15",
+        "09:00",
+        "09:05",
+        "09:25",
+        "10:30",
+        "10:40",
+        "10:55",
+        "11:10",
+        "12:00",
+        "12:15",
+        "12:55",
+        "14:00",
+        "14:30",
+        "15:30"
+      ],
+      "flightType": "both",
+      "departures": 17,
+      "arrivals": 17,
+      "total": 34
+    },
+    {
+      "cityName": "深圳宝安",
+      "iataCode": "SZX",
+      "latitude": 22.6393,
+      "longitude": 113.8107,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ5120",
+        "HU7028",
+        "HU7025",
+        "CZ6253",
+        "DZ6262",
+        "DZ6260",
+        "CZ6254",
+        "CZ3955",
+        "HU7023",
+        "ZH9311",
+        "ZH9313",
+        "CZ6794",
+        "CZ3956",
+        "CZ5119",
+        "ZH9314",
+        "HU7026",
+        "CZ6444",
+        "HU7024",
+        "CZ6443",
+        "HU7021",
+        "HU7027",
+        "ZH9316",
+        "HU7022",
+        "DZ6261",
+        "CZ6793",
+        "DZ6259",
+        "ZH9315",
+        "ZH9312"
+      ],
+      "airlines": [
+        "深圳航空",
+        "东海航空",
+        "海南航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "00:10",
+        "00:15",
+        "00:40",
+        "00:55",
+        "06:30",
+        "06:40",
+        "06:55",
+        "07:40",
+        "08:00",
+        "08:40",
+        "09:00",
+        "09:10",
+        "09:35",
+        "09:40",
+        "10:15",
+        "10:25",
+        "13:55",
+        "15:30",
+        "16:40",
+        "17:35"
+      ],
+      "flightType": "both",
+      "departures": 14,
+      "arrivals": 14,
+      "total": 28
+    },
+    {
+      "cityName": "郑州新郑",
+      "iataCode": "CGO",
+      "latitude": 34.5197,
+      "longitude": 113.841,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ5923",
+        "PN6330",
+        "CZ6356",
+        "HU7034",
+        "CZ6355",
+        "JD5376",
+        "CZ5924",
+        "ZH9727",
+        "CZ8640",
+        "HU7033",
+        "ZH9728",
+        "CZ6397",
+        "HU7032",
+        "JD5375",
+        "CZ6398",
+        "HU7035",
+        "CZ5953",
+        "AQ1680",
+        "SC2286",
+        "SC2285",
+        "HU7036",
+        "PN6329",
+        "Y87555",
+        "AQ1679",
+        "CZ5954",
+        "Y87556",
+        "CZ8639",
+        "HU7031"
+      ],
+      "airlines": [
+        "首都航空",
+        "深圳航空",
+        "海南航空",
+        "山东航空",
+        "Y",
+        "西部航空",
+        "中国南方航空",
+        "九元航空"
+      ],
+      "times": [
+        "00:05",
+        "01:20",
+        "06:50",
+        "08:10",
+        "09:10",
+        "09:15",
+        "11:30",
+        "12:10",
+        "12:30",
+        "15:05",
+        "15:20",
+        "15:35",
+        "15:50",
+        "16:05",
+        "16:25",
+        "16:50",
+        "17:00",
+        "18:00",
+        "18:15",
+        "19:05"
+      ],
+      "flightType": "both",
+      "departures": 14,
+      "arrivals": 14,
+      "total": 28
+    },
+    {
+      "cityName": "武汉天河",
+      "iataCode": "WUH",
+      "latitude": 30.7838,
+      "longitude": 114.2081,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7063",
+        "CZ6537",
+        "HU7066",
+        "CZ8614",
+        "CZ3341",
+        "CZ8613",
+        "EU2764",
+        "MU2593",
+        "CZ3846",
+        "JD5329",
+        "CZ3845",
+        "HU7061",
+        "JD5330",
+        "EU2763",
+        "HU7067",
+        "HU7068",
+        "HU7064",
+        "MU2594",
+        "HU7062",
+        "CZ6538",
+        "CZ8270",
+        "CZ6652",
+        "CZ3342",
+        "CZ6651",
+        "CZ8269",
+        "HU7065"
+      ],
+      "airlines": [
+        "首都航空",
+        "中国东方航空",
+        "海南航空",
+        "成都航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "01:05",
+        "01:15",
+        "01:30",
+        "07:25",
+        "07:30",
+        "09:00",
+        "09:25",
+        "10:45",
+        "11:50",
+        "12:30",
+        "13:05",
+        "14:25",
+        "14:40",
+        "15:00",
+        "15:30",
+        "15:40",
+        "15:55",
+        "17:00",
+        "17:55",
+        "18:50"
+      ],
+      "flightType": "both",
+      "departures": 13,
+      "arrivals": 13,
+      "total": 26
+    },
+    {
+      "cityName": "重庆江北",
+      "iataCode": "CKG",
+      "latitude": 29.7192,
+      "longitude": 106.6417,
+      "region": "中国",
+      "flightNumbers": [
+        "PN6207",
+        "EU2737",
+        "HU7571",
+        "OQ2342",
+        "HU7572",
+        "GS6554",
+        "EU2738",
+        "CZ8690",
+        "CZ6314",
+        "PN6208",
+        "HU7372",
+        "3U8065",
+        "HU446",
+        "HU7271",
+        "HU7371",
+        "3U8066",
+        "CZ6313",
+        "GS6553",
+        "HU7171",
+        "CZ8689",
+        "OQ2341",
+        "HU7172",
+        "HU7272"
+      ],
+      "airlines": [
+        "U",
+        "海南航空",
+        "天津航空",
+        "重庆航空",
+        "西部航空",
+        "成都航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "00:45",
+        "00:55",
+        "01:00",
+        "07:30",
+        "07:55",
+        "08:55",
+        "10:00",
+        "10:10",
+        "10:55",
+        "12:00",
+        "13:55",
+        "14:30",
+        "15:15",
+        "16:15",
+        "17:15",
+        "18:30",
+        "19:30",
+        "20:15",
+        "20:20",
+        "21:00"
+      ],
+      "flightType": "both",
+      "departures": 11,
+      "arrivals": 12,
+      "total": 23
+    },
+    {
+      "cityName": "长沙黄花",
+      "iataCode": "CSX",
+      "latitude": 28.1892,
+      "longitude": 113.22,
+      "region": "中国",
+      "flightNumbers": [
+        "DZ6327",
+        "HU7417",
+        "AQ1508",
+        "HU7217",
+        "CZ5594",
+        "HU7963",
+        "HU7318",
+        "HU7418",
+        "CZ5593",
+        "HU7117",
+        "DZ6328",
+        "HU7218",
+        "AQ1503",
+        "AQ1504",
+        "HU7518",
+        "HU7517",
+        "CZ6768",
+        "CZ6767",
+        "HU7317",
+        "AQ1507",
+        "HU7118"
+      ],
+      "airlines": [
+        "东海航空",
+        "海南航空",
+        "中国南方航空",
+        "九元航空"
+      ],
+      "times": [
+        "07:00",
+        "08:30",
+        "09:30",
+        "10:10",
+        "10:50",
+        "11:15",
+        "11:20",
+        "13:40",
+        "14:05",
+        "14:35",
+        "14:55",
+        "15:00",
+        "15:05",
+        "15:30",
+        "16:30",
+        "20:25",
+        "21:00",
+        "21:05",
+        "22:45",
+        "23:10"
+      ],
+      "flightType": "both",
+      "departures": 11,
+      "arrivals": 10,
+      "total": 21
+    },
+    {
+      "cityName": "贵阳龙洞堡",
+      "iataCode": "KWE",
+      "latitude": 26.5385,
+      "longitude": 106.8006,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ5735",
+        "CZ6720",
+        "GT1056",
+        "JD5586",
+        "BK3164",
+        "CZ6105",
+        "HU7050",
+        "JD5585",
+        "CZ6719",
+        "HU7030",
+        "HU7029",
+        "HU7039",
+        "CZ6106",
+        "GT1055",
+        "HU7040",
+        "GS6453",
+        "HO2104",
+        "HO2103",
+        "GS6454",
+        "HU7049",
+        "CZ5736"
+      ],
+      "airlines": [
+        "首都航空",
+        "海南航空",
+        "天津航空",
+        "北部湾航空",
+        "奥凯航空",
+        "春秋航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "00:30",
+        "07:05",
+        "07:10",
+        "07:30",
+        "07:50",
+        "08:00",
+        "09:50",
+        "10:50",
+        "11:10",
+        "12:20",
+        "12:50",
+        "13:40",
+        "14:50",
+        "16:05",
+        "18:40",
+        "19:55",
+        "21:35",
+        "22:30",
+        "22:40",
+        "22:55"
+      ],
+      "flightType": "both",
+      "departures": 10,
+      "arrivals": 11,
+      "total": 21
+    },
+    {
+      "cityName": "上海浦东",
+      "iataCode": "PVG",
+      "latitude": 31.1443,
+      "longitude": 121.8083,
+      "region": "中国",
+      "flightNumbers": [
+        "HO1271",
+        "CZ3516",
+        "HU7120",
+        "CZ6766",
+        "MU5550",
+        "CA8573",
+        "CZ6765",
+        "HO1088",
+        "HO1272",
+        "HU7119",
+        "CZ8257",
+        "CZ8258",
+        "HU7219",
+        "FM9256",
+        "CZ3515",
+        "HU7220",
+        "MU5549",
+        "FM9255",
+        "CA8574",
+        "HO1087"
+      ],
+      "airlines": [
+        "中国东方航空",
+        "海南航空",
+        "FM",
+        "中国国际航空",
+        "春秋航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "08:25",
+        "10:45",
+        "10:55",
+        "11:50",
+        "12:20",
+        "13:35",
+        "16:10",
+        "17:00",
+        "17:50",
+        "18:40",
+        "18:50",
+        "19:00",
+        "19:30",
+        "19:55",
+        "20:00",
+        "23:20",
+        "23:45"
+      ],
+      "flightType": "both",
+      "departures": 10,
+      "arrivals": 10,
+      "total": 20
+    },
+    {
+      "cityName": "昆明长水",
+      "iataCode": "KMG",
+      "latitude": 25.1019,
+      "longitude": 102.9292,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ6729",
+        "CZ6721",
+        "HU7092",
+        "MU5832",
+        "HU7091",
+        "KY8284",
+        "8L9973",
+        "CZ3431",
+        "KY8283",
+        "MU5831",
+        "8L9972",
+        "HU7094",
+        "CZ6722",
+        "CZ6730",
+        "8L9974",
+        "HU7093",
+        "A67703",
+        "A67704",
+        "8L9971",
+        "CZ3432"
+      ],
+      "airlines": [
+        "L",
+        "中国东方航空",
+        "海南航空",
+        "中国南方航空",
+        "A",
+        "昆明航空"
+      ],
+      "times": [
+        "07:40",
+        "08:55",
+        "12:55",
+        "13:50",
+        "14:10",
+        "17:05",
+        "18:40",
+        "19:15",
+        "19:20",
+        "20:00",
+        "20:10",
+        "20:20",
+        "20:30",
+        "21:10",
+        "21:35",
+        "21:55",
+        "22:30",
+        "23:00",
+        "23:45"
+      ],
+      "flightType": "both",
+      "departures": 10,
+      "arrivals": 10,
+      "total": 20
+    },
+    {
+      "cityName": "成都天府",
+      "iataCode": "TFU",
+      "latitude": 30.3085,
+      "longitude": 104.4441,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ6319",
+        "8L9667",
+        "HU7087",
+        "8L9668",
+        "CZ6557",
+        "CZ6320",
+        "CZ6558",
+        "EU2414",
+        "HU7084",
+        "ZH8427",
+        "HU7083",
+        "EU2413",
+        "ZH8428",
+        "3U6717",
+        "HU7088",
+        "3U6718",
+        "HU7086",
+        "HU7085"
+      ],
+      "airlines": [
+        "U",
+        "L",
+        "深圳航空",
+        "海南航空",
+        "成都航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "08:35",
+        "09:00",
+        "09:35",
+        "10:20",
+        "10:35",
+        "11:20",
+        "11:25",
+        "11:55",
+        "12:35",
+        "14:30",
+        "14:50",
+        "16:15",
+        "17:15",
+        "17:35",
+        "18:35",
+        "20:00",
+        "20:20",
+        "21:25"
+      ],
+      "flightType": "both",
+      "departures": 9,
+      "arrivals": 9,
+      "total": 18
+    },
+    {
+      "cityName": "北京首都",
+      "iataCode": "PEK",
+      "latitude": 40.0801,
+      "longitude": 116.5845,
+      "region": "中国",
+      "flightNumbers": [
+        "CA1362",
+        "HU7382",
+        "HU7582",
+        "HU7381",
+        "HU7481",
+        "HU7282",
+        "CA1919",
+        "HU7081",
+        "HU7482",
+        "CA1920",
+        "HU7082",
+        "CA1361",
+        "HU7182",
+        "HU7181",
+        "HU7281",
+        "HU7581"
+      ],
+      "airlines": [
+        "中国国际航空",
+        "海南航空"
+      ],
+      "times": [
+        "01:00",
+        "08:00",
+        "09:05",
+        "11:00",
+        "11:45",
+        "12:15",
+        "12:45",
+        "13:00",
+        "13:15",
+        "16:00",
+        "16:40",
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:45"
+      ],
+      "flightType": "both",
+      "departures": 8,
+      "arrivals": 8,
+      "total": 16
+    },
+    {
+      "cityName": "珠海金湾",
+      "iataCode": "ZUH",
+      "latitude": 22.0067,
+      "longitude": 113.3822,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7045",
+        "HU7018",
+        "SC2288",
+        "CZ8631",
+        "DZ6321",
+        "GX8970",
+        "DZ6322",
+        "HU7046",
+        "HU7017",
+        "JD5015",
+        "GX8969",
+        "CZ8632",
+        "SC2287",
+        "HU7020",
+        "HU7019",
+        "JD5016"
+      ],
+      "airlines": [
+        "首都航空",
+        "东海航空",
+        "海南航空",
+        "山东航空",
+        "北部湾航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "01:05",
+        "07:20",
+        "08:10",
+        "11:10",
+        "11:20",
+        "16:00",
+        "17:10",
+        "17:55",
+        "19:30",
+        "20:05",
+        "21:25",
+        "21:55",
+        "22:25",
+        "22:40",
+        "22:55",
+        "23:00"
+      ],
+      "flightType": "both",
+      "departures": 8,
+      "arrivals": 8,
+      "total": 16
+    },
+    {
+      "cityName": "南宁吴圩",
+      "iataCode": "NNG",
+      "latitude": 22.6083,
+      "longitude": 108.1724,
+      "region": "中国",
+      "flightNumbers": [
+        "GS6562",
+        "GX8859",
+        "GS6561",
+        "JD5380",
+        "CZ5757",
+        "GX8860",
+        "HU7096",
+        "BK3161",
+        "CZ8365",
+        "GT1108",
+        "GT1107",
+        "HU7095",
+        "CZ5758",
+        "CZ8366"
+      ],
+      "airlines": [
+        "首都航空",
+        "海南航空",
+        "天津航空",
+        "北部湾航空",
+        "奥凯航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "00:10",
+        "01:10",
+        "06:35",
+        "09:05",
+        "09:15",
+        "10:05",
+        "15:25",
+        "15:50",
+        "17:30",
+        "18:50",
+        "19:45",
+        "21:40",
+        "21:55",
+        "22:50"
+      ],
+      "flightType": "both",
+      "departures": 7,
+      "arrivals": 7,
+      "total": 14
+    },
+    {
+      "cityName": "北京大兴",
+      "iataCode": "PKX",
+      "latitude": 39.5098,
+      "longitude": 116.4105,
+      "region": "中国",
+      "flightNumbers": [
+        "MU6959",
+        "CA8628",
+        "CZ8931",
+        "CZ6365",
+        "CZ3119",
+        "CZ3120",
+        "CZ6366",
+        "KN5812",
+        "KN5811",
+        "CA8627",
+        "CZ8932",
+        "MU6960"
+      ],
+      "airlines": [
+        "中国国际航空",
+        "中国联合航空",
+        "中国南方航空",
+        "中国东方航空"
+      ],
+      "times": [
+        "08:05",
+        "11:35",
+        "12:05",
+        "13:05",
+        "13:20",
+        "13:25",
+        "15:50",
+        "16:55",
+        "17:30",
+        "18:35",
+        "21:45"
+      ],
+      "flightType": "both",
+      "departures": 6,
+      "arrivals": 6,
+      "total": 12
+    },
+    {
+      "cityName": "揭阳潮汕",
+      "iataCode": "SWA",
+      "latitude": 23.5526,
+      "longitude": 116.5032,
+      "region": "中国",
+      "flightNumbers": [
+        "JD5098",
+        "CZ5888",
+        "CZ5887",
+        "GS6544",
+        "CZ5154",
+        "9C7461",
+        "JD5097",
+        "GS6543",
+        "9C7462",
+        "HU7015",
+        "HU7016",
+        "CZ5153"
+      ],
+      "airlines": [
+        "首都航空",
+        "海南航空",
+        "天津航空",
+        "中国南方航空",
+        "C"
+      ],
+      "times": [
+        "11:45",
+        "12:45",
+        "13:55",
+        "17:45",
+        "18:00",
+        "18:15",
+        "18:45",
+        "19:00",
+        "19:40",
+        "19:45",
+        "20:45",
+        "21:50"
+      ],
+      "flightType": "both",
+      "departures": 6,
+      "arrivals": 6,
+      "total": 12
+    },
+    {
+      "cityName": "西安咸阳",
+      "iataCode": "XIY",
+      "latitude": 34.4471,
+      "longitude": 108.7514,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7466",
+        "HU7365",
+        "HU7266",
+        "CZ6728",
+        "HU7165",
+        "HU7366",
+        "CZ6727",
+        "HU7265",
+        "HU7465",
+        "HU7166",
+        "MU2367",
+        "MU2368"
+      ],
+      "airlines": [
+        "海南航空",
+        "中国南方航空",
+        "中国东方航空"
+      ],
+      "times": [
+        "06:30",
+        "08:15",
+        "11:55",
+        "12:00",
+        "13:00",
+        "15:10",
+        "17:20",
+        "18:25",
+        "18:30",
+        "19:00",
+        "19:50",
+        "20:55"
+      ],
+      "flightType": "both",
+      "departures": 6,
+      "arrivals": 6,
+      "total": 12
+    },
+    {
+      "cityName": "杭州萧山",
+      "iataCode": "HGH",
+      "latitude": 30.2295,
+      "longitude": 120.4341,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7053",
+        "MF8316",
+        "MF8315",
+        "CZ8208",
+        "HU7055",
+        "HU7052",
+        "HU7054",
+        "EU2264",
+        "EU2263",
+        "HU7056",
+        "HU7051",
+        "CZ8207"
+      ],
+      "airlines": [
+        "厦门航空",
+        "海南航空",
+        "中国南方航空",
+        "成都航空"
+      ],
+      "times": [
+        "08:20",
+        "09:50",
+        "10:50",
+        "11:55",
+        "13:10",
+        "14:50",
+        "15:50",
+        "16:05",
+        "16:55",
+        "17:05",
+        "22:40",
+        "23:35"
+      ],
+      "flightType": "both",
+      "departures": 6,
+      "arrivals": 6,
+      "total": 12
+    },
+    {
+      "cityName": "南京禄口",
+      "iataCode": "NKG",
+      "latitude": 31.742,
+      "longitude": 118.862,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7115",
+        "HU7216",
+        "CZ6337",
+        "CF9051",
+        "CF9052",
+        "HU7116",
+        "HU7215",
+        "NS3286",
+        "NS3285",
+        "CZ6726",
+        "CZ6725",
+        "CZ6338"
+      ],
+      "airlines": [
+        "河北航空",
+        "海南航空",
+        "中国南方航空",
+        "CF"
+      ],
+      "times": [
+        "00:05",
+        "05:55",
+        "08:55",
+        "09:15",
+        "11:40",
+        "13:00",
+        "14:10",
+        "15:45",
+        "15:55",
+        "16:15",
+        "17:50",
+        "18:25"
+      ],
+      "flightType": "both",
+      "departures": 6,
+      "arrivals": 6,
+      "total": 12
+    },
+    {
+      "cityName": "南昌昌北",
+      "iataCode": "KHN",
+      "latitude": 28.865,
+      "longitude": 115.9,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7077",
+        "HU7078",
+        "ZH9733",
+        "MU5675",
+        "HU7070",
+        "RY8905",
+        "RY8906",
+        "ZH9734",
+        "HU7069",
+        "MU5676"
+      ],
+      "airlines": [
+        "深圳航空",
+        "海南航空",
+        "RY",
+        "中国东方航空"
+      ],
+      "times": [
+        "00:35",
+        "10:00",
+        "13:05",
+        "13:10",
+        "14:05",
+        "15:55",
+        "16:55",
+        "18:20",
+        "19:25",
+        "23:40"
+      ],
+      "flightType": "both",
+      "departures": 5,
+      "arrivals": 5,
+      "total": 10
+    },
+    {
+      "cityName": "香港",
+      "iataCode": "HKG",
+      "latitude": 22.3089,
+      "longitude": 113.9145,
+      "region": "中国",
+      "flightNumbers": [
+        "HX107",
+        "HX108",
+        "CX310",
+        "HU705",
+        "HU706",
+        "HU780",
+        "HU720",
+        "HU779",
+        "CX313",
+        "HU719"
+      ],
+      "airlines": [
+        "海南航空",
+        "CX",
+        "HX"
+      ],
+      "times": [
+        "10:25",
+        "11:35",
+        "12:35",
+        "13:30",
+        "13:35",
+        "14:20",
+        "15:40",
+        "16:50",
+        "17:40",
+        "18:30"
+      ],
+      "flightType": "both",
+      "departures": 5,
+      "arrivals": 5,
+      "total": 10
+    },
+    {
+      "cityName": "济南",
+      "iataCode": "TNA",
+      "latitude": 36.8572,
+      "longitude": 117.216,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7041",
+        "SC8852",
+        "HU7043",
+        "HU7042",
+        "HU7044",
+        "SC8851",
+        "JD5596",
+        "JD5595"
+      ],
+      "airlines": [
+        "首都航空",
+        "海南航空",
+        "山东航空"
+      ],
+      "times": [
+        "01:10",
+        "09:20",
+        "10:10",
+        "14:45",
+        "15:45",
+        "16:55",
+        "22:35"
+      ],
+      "flightType": "both",
+      "departures": 4,
+      "arrivals": 4,
+      "total": 8
+    },
+    {
+      "cityName": "成都天府",
+      "iataCode": "CTU",
+      "latitude": 30.3085,
+      "longitude": 104.4441,
+      "region": "中国",
+      "flightNumbers": [
+        "CA4297",
+        "3U8778",
+        "CA4315",
+        "3U8775",
+        "3U8776",
+        "3U8777",
+        "CA4298",
+        "CA4316"
+      ],
+      "airlines": [
+        "中国国际航空",
+        "U"
+      ],
+      "times": [
+        "11:50",
+        "12:50",
+        "13:15",
+        "14:20",
+        "16:35",
+        "17:40",
+        "19:25",
+        "20:35"
+      ],
+      "flightType": "both",
+      "departures": 4,
+      "arrivals": 4,
+      "total": 8
+    },
+    {
+      "cityName": "厦门高崎",
+      "iataCode": "XMN",
+      "latitude": 24.544,
+      "longitude": 118.1279,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ6710",
+        "CZ6709",
+        "HU7048",
+        "MF8361",
+        "MF8362",
+        "MF8342",
+        "MF8341",
+        "HU7047"
+      ],
+      "airlines": [
+        "厦门航空",
+        "海南航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "07:20",
+        "09:20",
+        "14:55",
+        "16:00",
+        "20:10",
+        "21:10",
+        "21:45",
+        "22:50"
+      ],
+      "flightType": "both",
+      "departures": 4,
+      "arrivals": 4,
+      "total": 8
+    },
+    {
+      "cityName": "福州长乐",
+      "iataCode": "FOC",
+      "latitude": 25.9351,
+      "longitude": 119.6633,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7075",
+        "HU7076",
+        "FU6531",
+        "FU6532",
+        "MF8783",
+        "MF8784"
+      ],
+      "airlines": [
+        "厦门航空",
+        "海南航空",
+        "福州航空"
+      ],
+      "times": [
+        "07:50",
+        "13:00",
+        "13:10",
+        "13:55",
+        "14:40",
+        "15:15"
+      ],
+      "flightType": "both",
+      "departures": 3,
+      "arrivals": 3,
+      "total": 6
+    },
+    {
+      "cityName": "石家庄正定",
+      "iataCode": "SJW",
+      "latitude": 38.2807,
+      "longitude": 114.6967,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ8861",
+        "CZ8862",
+        "GS6528",
+        "NS3288",
+        "GS6527",
+        "NS3287"
+      ],
+      "airlines": [
+        "河北航空",
+        "中国南方航空",
+        "天津航空"
+      ],
+      "times": [
+        "07:10",
+        "08:20",
+        "12:15",
+        "13:15",
+        "20:55",
+        "23:50"
+      ],
+      "flightType": "both",
+      "departures": 3,
+      "arrivals": 3,
+      "total": 6
+    },
+    {
+      "cityName": "桂林两江",
+      "iataCode": "KWL",
+      "latitude": 25.2193,
+      "longitude": 110.0394,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7483",
+        "SC8845",
+        "JD5764",
+        "JD5763",
+        "SC8846",
+        "HU7484"
+      ],
+      "airlines": [
+        "首都航空",
+        "海南航空",
+        "山东航空"
+      ],
+      "times": [
+        "06:55",
+        "08:35",
+        "10:55",
+        "13:15",
+        "14:15",
+        "18:25"
+      ],
+      "flightType": "both",
+      "departures": 3,
+      "arrivals": 3,
+      "total": 6
+    },
+    {
+      "cityName": "惠州平潭",
+      "iataCode": "HUZ",
+      "latitude": 23.082,
+      "longitude": 114.61,
+      "region": "中国",
+      "flightNumbers": [
+        "HO2047",
+        "GS6531",
+        "HU7169",
+        "GS6532",
+        "HO2048",
+        "HU7170"
+      ],
+      "airlines": [
+        "海南航空",
+        "春秋航空",
+        "天津航空"
+      ],
+      "times": [
+        "06:40",
+        "06:50",
+        "10:50",
+        "13:15",
+        "21:45",
+        "23:50"
+      ],
+      "flightType": "both",
+      "departures": 3,
+      "arrivals": 3,
+      "total": 6
+    },
+    {
+      "cityName": "上海虹桥",
+      "iataCode": "SHA",
+      "latitude": 31.1979,
+      "longitude": 121.3364,
+      "region": "中国",
+      "flightNumbers": [
+        "FM9252",
+        "HU7320",
+        "HU7319",
+        "FM9253",
+        "FM9251",
+        "FM9254"
+      ],
+      "airlines": [
+        "海南航空",
+        "FM"
+      ],
+      "times": [
+        "11:35",
+        "13:40",
+        "14:45",
+        "19:45",
+        "19:50",
+        "20:55"
+      ],
+      "flightType": "both",
+      "departures": 3,
+      "arrivals": 3,
+      "total": 6
+    },
+    {
+      "cityName": "沈阳桃仙",
+      "iataCode": "SHE",
+      "latitude": 41.64,
+      "longitude": 123.4836,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7647",
+        "CZ6560",
+        "CZ6559",
+        "HU7648"
+      ],
+      "airlines": [
+        "海南航空",
+        "中国南方航空"
+      ],
+      "times": [
+        "09:25",
+        "12:45",
+        "19:50",
+        "22:50"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "青岛胶东",
+      "iataCode": "TAO",
+      "latitude": 36.3647,
+      "longitude": 120.0861,
+      "region": "中国",
+      "flightNumbers": [
+        "JD5895",
+        "MU6546",
+        "JD5896",
+        "MU6545"
+      ],
+      "airlines": [
+        "首都航空",
+        "中国东方航空"
+      ],
+      "times": [
+        "08:55",
+        "20:10",
+        "21:20",
+        "22:35"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "Xuzhou Guanyin International 机场",
+      "iataCode": "XUZ",
+      "latitude": 34.059056,
+      "longitude": 117.555278,
+      "region": "CN",
+      "flightNumbers": [
+        "GJ8598",
+        "GX8871",
+        "GX8872",
+        "GJ8597"
+      ],
+      "airlines": [
+        "GJ",
+        "北部湾航空"
+      ],
+      "times": [
+        "06:45",
+        "10:15",
+        "11:35",
+        "20:15"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "宁波栎社国际机场",
+      "iataCode": "NGB",
+      "latitude": 29.82670021057129,
+      "longitude": 121.46199798583984,
+      "region": "CN",
+      "flightNumbers": [
+        "SC4883",
+        "HU7687",
+        "HU7688",
+        "SC4884"
+      ],
+      "airlines": [
+        "海南航空",
+        "山东航空"
+      ],
+      "times": [
+        "07:15",
+        "12:25",
+        "13:25",
+        "18:55"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "曼谷",
+      "iataCode": "BKK",
+      "latitude": 13.69,
+      "longitude": 100.7501,
+      "region": "泰国",
+      "flightNumbers": [
+        "HU7939",
+        "HU721",
+        "HU7940",
+        "HU722"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "08:30",
+        "14:40",
+        "16:40",
+        "22:40"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "鄂州花湖",
+      "iataCode": "EHU",
+      "latitude": 30.38,
+      "longitude": 114.86,
+      "region": "中国",
+      "flightNumbers": [
+        "O36988",
+        "O36987",
+        "GX8993",
+        "GX8994"
+      ],
+      "airlines": [
+        "O",
+        "北部湾航空"
+      ],
+      "times": [
+        "00:25",
+        "05:55",
+        "18:55",
+        "23:05"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "泉州晋江",
+      "iataCode": "JJN",
+      "latitude": 24.7978,
+      "longitude": 118.5902,
+      "region": "中国",
+      "flightNumbers": [
+        "MF8868",
+        "HU7653",
+        "MF8867",
+        "HU7654"
+      ],
+      "airlines": [
+        "厦门航空",
+        "海南航空"
+      ],
+      "times": [
+        "00:45",
+        "10:15",
+        "11:15",
+        "19:40"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "温州龙湾",
+      "iataCode": "WNZ",
+      "latitude": 27.9122,
+      "longitude": 120.852,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7164",
+        "3U3307",
+        "HU7163",
+        "3U3308"
+      ],
+      "airlines": [
+        "U",
+        "海南航空"
+      ],
+      "times": [
+        "14:10",
+        "14:35",
+        "15:15",
+        "15:35"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "太原武宿",
+      "iataCode": "TYN",
+      "latitude": 37.7467,
+      "longitude": 112.6284,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7122",
+        "SC2331",
+        "SC2332",
+        "HU7121"
+      ],
+      "airlines": [
+        "海南航空",
+        "山东航空"
+      ],
+      "times": [
+        "06:45",
+        "07:35",
+        "11:45",
+        "20:40"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "吉隆坡",
+      "iataCode": "KUL",
+      "latitude": 2.7456,
+      "longitude": 101.7099,
+      "region": "马来西亚",
+      "flightNumbers": [
+        "HU755",
+        "FY3971",
+        "FY3970",
+        "HU756"
+      ],
+      "airlines": [
+        "FY",
+        "海南航空"
+      ],
+      "times": [
+        "00:40",
+        "06:35",
+        "11:40",
+        "12:40"
+      ],
+      "flightType": "both",
+      "departures": 2,
+      "arrivals": 2,
+      "total": 4
+    },
+    {
+      "cityName": "Yiwu 机场",
+      "iataCode": "YIW",
+      "latitude": 29.342095,
+      "longitude": 120.03116,
+      "region": "CN",
+      "flightNumbers": [
+        "CZ5148",
+        "CZ5147"
+      ],
+      "airlines": [
+        "中国南方航空"
+      ],
+      "times": [
+        "17:25",
+        "18:30"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Taizhou Luqiao 机场",
+      "iataCode": "HYN",
+      "latitude": 28.562201,
+      "longitude": 121.429001,
+      "region": "CN",
+      "flightNumbers": [
+        "SC8853",
+        "SC8854"
+      ],
+      "airlines": [
+        "山东航空"
+      ],
+      "times": [
+        "06:45",
+        "21:40"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "银川河东",
+      "iataCode": "INC",
+      "latitude": 38.3219,
+      "longitude": 106.3897,
+      "region": "中国",
+      "flightNumbers": [
+        "GJ8358",
+        "GJ8357"
+      ],
+      "airlines": [
+        "GJ"
+      ],
+      "times": [
+        "14:40",
+        "15:40"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Jiujiang Lushan 机场",
+      "iataCode": "JIU",
+      "latitude": 29.476944,
+      "longitude": 115.801111,
+      "region": "CN",
+      "flightNumbers": [
+        "HU7369",
+        "HU7370"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "07:40",
+        "12:50"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Changzhou Benniu International 机场",
+      "iataCode": "CZX",
+      "latitude": 31.920485,
+      "longitude": 119.77546,
+      "region": "CN",
+      "flightNumbers": [
+        "ZH9750",
+        "ZH9749"
+      ],
+      "airlines": [
+        "深圳航空"
+      ],
+      "times": [
+        "07:25",
+        "21:35"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "呼和浩特",
+      "iataCode": "HET",
+      "latitude": 40.8513,
+      "longitude": 111.8237,
+      "region": "中国",
+      "flightNumbers": [
+        "CA8146",
+        "CA8145"
+      ],
+      "airlines": [
+        "中国国际航空"
+      ],
+      "times": [
+        "19:30",
+        "20:30"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Wuhu Xuanzhou 机场",
+      "iataCode": "WHA",
+      "latitude": 31.1045,
+      "longitude": 118.66687,
+      "region": "CN",
+      "flightNumbers": [
+        "GT1115",
+        "GT1116"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "00:50",
+        "07:15"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Shiyan Wudangshan 机场",
+      "iataCode": "WDS",
+      "latitude": 32.592889,
+      "longitude": 110.906296,
+      "region": "CN",
+      "flightNumbers": [
+        "JD5539",
+        "JD5540"
+      ],
+      "airlines": [
+        "首都航空"
+      ],
+      "times": [
+        "16:25",
+        "17:30"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "新加坡",
+      "iataCode": "SIN",
+      "latitude": 1.3644,
+      "longitude": 103.9915,
+      "region": "新加坡",
+      "flightNumbers": [
+        "HU748",
+        "HU747"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "08:15",
+        "15:40"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "潍坊",
+      "iataCode": "WEF",
+      "latitude": 36.6158,
+      "longitude": 119.1071,
+      "region": "中国",
+      "flightNumbers": [
+        "QW6009",
+        "QW6010"
+      ],
+      "airlines": [
+        "青岛航空"
+      ],
+      "times": [
+        "14:55",
+        "15:55"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Jining Da'an 机场",
+      "iataCode": "JNG",
+      "latitude": 35.647358,
+      "longitude": 116.743269,
+      "region": "CN",
+      "flightNumbers": [
+        "GX7866",
+        "GX7865"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "08:25",
+        "16:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Enshi Xujiaping 机场",
+      "iataCode": "ENH",
+      "latitude": 30.320299,
+      "longitude": 109.485001,
+      "region": "CN",
+      "flightNumbers": [
+        "JD5762",
+        "JD5761"
+      ],
+      "airlines": [
+        "首都航空"
+      ],
+      "times": [
+        "06:25",
+        "17:05"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Qingyang Xifeng 机场",
+      "iataCode": "IQN",
+      "latitude": 35.802638,
+      "longitude": 107.598896,
+      "region": "CN",
+      "flightNumbers": [
+        "GX8890",
+        "GX8889"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "00:40",
+        "14:00"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Xiangxi Biancheng 机场",
+      "iataCode": "DXJ",
+      "latitude": 28.4972,
+      "longitude": 109.5218,
+      "region": "CN",
+      "flightNumbers": [
+        "PN6375",
+        "PN6376"
+      ],
+      "airlines": [
+        "西部航空"
+      ],
+      "times": [
+        "10:45",
+        "12:00"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "绵阳",
+      "iataCode": "MIG",
+      "latitude": 31.4287,
+      "longitude": 104.7385,
+      "region": "中国",
+      "flightNumbers": [
+        "UQ2514",
+        "UQ2513"
+      ],
+      "airlines": [
+        "乌鲁木齐航空"
+      ],
+      "times": [
+        "16:25",
+        "17:25"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Yichang Sanxia 机场",
+      "iataCode": "YIH",
+      "latitude": 30.554132,
+      "longitude": 111.482563,
+      "region": "CN",
+      "flightNumbers": [
+        "JD5322",
+        "JD5321"
+      ],
+      "airlines": [
+        "首都航空"
+      ],
+      "times": [
+        "06:25",
+        "17:20"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "兰州中川",
+      "iataCode": "LHW",
+      "latitude": 36.5152,
+      "longitude": 103.6201,
+      "region": "中国",
+      "flightNumbers": [
+        "CZ6675",
+        "CZ6676"
+      ],
+      "airlines": [
+        "中国南方航空"
+      ],
+      "times": [
+        "08:10",
+        "23:45"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "宜宾五粮液",
+      "iataCode": "YBP",
+      "latitude": 28.8001,
+      "longitude": 104.6629,
+      "region": "中国",
+      "flightNumbers": [
+        "GY7139",
+        "GY7140"
+      ],
+      "airlines": [
+        "GY"
+      ],
+      "times": [
+        "11:05",
+        "12:05"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Nanyang Jiangying 机场",
+      "iataCode": "NNY",
+      "latitude": 32.982696,
+      "longitude": 112.617467,
+      "region": "CN",
+      "flightNumbers": [
+        "GX8895",
+        "GX8896"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "17:10",
+        "23:00"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "运城张孝",
+      "iataCode": "YCU",
+      "latitude": 35.125,
+      "longitude": 111.0256,
+      "region": "中国",
+      "flightNumbers": [
+        "ZH8185",
+        "ZH8186"
+      ],
+      "airlines": [
+        "深圳航空"
+      ],
+      "times": [
+        "18:45",
+        "19:45"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "湛江",
+      "iataCode": "ZHA",
+      "latitude": 21.2143,
+      "longitude": 110.36,
+      "region": "中国",
+      "flightNumbers": [
+        "GS6526",
+        "GS6525"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "21:15",
+        "23:40"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Xinyang Minggang 机场",
+      "iataCode": "XAI",
+      "latitude": 32.540819,
+      "longitude": 114.079141,
+      "region": "CN",
+      "flightNumbers": [
+        "GX8992",
+        "GX8991"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "14:50",
+        "23:00"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Shaoyang Wugang 机场",
+      "iataCode": "WGN",
+      "latitude": 26.806123,
+      "longitude": 110.641042,
+      "region": "CN",
+      "flightNumbers": [
+        "HU7665",
+        "HU7666"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "00:05",
+        "20:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "哈尔滨太平",
+      "iataCode": "HRB",
+      "latitude": 45.6234,
+      "longitude": 126.25,
+      "region": "中国",
+      "flightNumbers": [
+        "HU7073",
+        "HU7074"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "07:20",
+        "18:45"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Handan 机场",
+      "iataCode": "HDG",
+      "latitude": 36.524824,
+      "longitude": 114.424126,
+      "region": "CN",
+      "flightNumbers": [
+        "GX8962",
+        "GX8961"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "09:50",
+        "16:30"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "柳州白莲",
+      "iataCode": "LZH",
+      "latitude": 24.2067,
+      "longitude": 109.3917,
+      "region": "中国",
+      "flightNumbers": [
+        "GS6567",
+        "GS6568"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "09:10",
+        "11:55"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "万州",
+      "iataCode": "WXN",
+      "latitude": 30.805,
+      "longitude": 108.434,
+      "region": "中国",
+      "flightNumbers": [
+        "GX8979",
+        "GX8980"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "01:05",
+        "19:50"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Changzhi Wangcun 机场",
+      "iataCode": "CIH",
+      "latitude": 36.247501,
+      "longitude": 113.125999,
+      "region": "CN",
+      "flightNumbers": [
+        "G52904",
+        "G52903"
+      ],
+      "airlines": [
+        "G"
+      ],
+      "times": [
+        "12:10",
+        "13:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "XYI",
+      "iataCode": "XYI",
+      "latitude": 0,
+      "longitude": 0,
+      "region": "",
+      "flightNumbers": [
+        "HU7071",
+        "HU7072"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "08:25",
+        "14:20"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "郴州",
+      "iataCode": "HCZ",
+      "latitude": 25.7703,
+      "longitude": 113.0326,
+      "region": "中国",
+      "flightNumbers": [
+        "JD5036",
+        "JD5035"
+      ],
+      "airlines": [
+        "首都航空"
+      ],
+      "times": [
+        "11:30",
+        "13:20"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "合肥新桥国际机场",
+      "iataCode": "HFE",
+      "latitude": 31.98779,
+      "longitude": 116.9769,
+      "region": "CN",
+      "flightNumbers": [
+        "HU7037",
+        "HU7038"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "17:15",
+        "23:20"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Bozhou 机场 (under construction)",
+      "iataCode": "BZJ",
+      "latitude": 33.560777,
+      "longitude": 115.911859,
+      "region": "CN",
+      "flightNumbers": [
+        "JD5250",
+        "JD5249"
+      ],
+      "airlines": [
+        "首都航空"
+      ],
+      "times": [
+        "00:15",
+        "18:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Tangshan Sannühe 机场",
+      "iataCode": "TVS",
+      "latitude": 39.7178,
+      "longitude": 118.002625,
+      "region": "CN",
+      "flightNumbers": [
+        "GT1091",
+        "GT1092"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "14:05",
+        "22:45"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "榆林",
+      "iataCode": "UYN",
+      "latitude": 38.2685,
+      "longitude": 109.7356,
+      "region": "中国",
+      "flightNumbers": [
+        "GX8974",
+        "GX8973"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "00:45",
+        "17:35"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "遵义茅台",
+      "iataCode": "WMT",
+      "latitude": 27.818,
+      "longitude": 106.35,
+      "region": "中国",
+      "flightNumbers": [
+        "GS7601",
+        "GS7602"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "12:50",
+        "19:35"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "赣州黄金",
+      "iataCode": "KOW",
+      "latitude": 25.8508,
+      "longitude": 114.9393,
+      "region": "中国",
+      "flightNumbers": [
+        "8L9844",
+        "8L9843"
+      ],
+      "airlines": [
+        "L"
+      ],
+      "times": [
+        "10:05",
+        "19:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Quzhou 机场",
+      "iataCode": "JUZ",
+      "latitude": 28.96613,
+      "longitude": 118.898793,
+      "region": "CN",
+      "flightNumbers": [
+        "G54095",
+        "G54096"
+      ],
+      "airlines": [
+        "G"
+      ],
+      "times": [
+        "17:35",
+        "18:35"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Xiangyang Liuji 机场",
+      "iataCode": "XFN",
+      "latitude": 32.152222,
+      "longitude": 112.291666,
+      "region": "CN",
+      "flightNumbers": [
+        "GJ8869",
+        "GJ8870"
+      ],
+      "airlines": [
+        "GJ"
+      ],
+      "times": [
+        "14:00",
+        "15:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Changde Taohuayuan 机场",
+      "iataCode": "CGD",
+      "latitude": 28.9189,
+      "longitude": 111.639999,
+      "region": "CN",
+      "flightNumbers": [
+        "GS6522",
+        "GS6521"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "11:45",
+        "12:35"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "天津滨海",
+      "iataCode": "TSN",
+      "latitude": 39.1244,
+      "longitude": 117.346,
+      "region": "中国",
+      "flightNumbers": [
+        "3U3365",
+        "3U3366"
+      ],
+      "airlines": [
+        "U"
+      ],
+      "times": [
+        "10:05",
+        "11:20"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "遵义",
+      "iataCode": "ZYI",
+      "latitude": 27.7242,
+      "longitude": 107.0125,
+      "region": "中国",
+      "flightNumbers": [
+        "GS6563",
+        "GS6564"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "08:00",
+        "18:35"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Fuyang Xiguan 机场",
+      "iataCode": "FUG",
+      "latitude": 32.882157,
+      "longitude": 115.734364,
+      "region": "CN",
+      "flightNumbers": [
+        "GX8893",
+        "GX8894"
+      ],
+      "airlines": [
+        "北部湾航空"
+      ],
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Yulin Fumian 机场",
+      "iataCode": "YLX",
+      "latitude": 22.433042,
+      "longitude": 110.119996,
+      "region": "CN",
+      "flightNumbers": [
+        "GS7687",
+        "GS7688"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "09:25",
+        "20:20"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Yancheng Nanyang International 机场",
+      "iataCode": "YNZ",
+      "latitude": 33.428317,
+      "longitude": 120.20545,
+      "region": "CN",
+      "flightNumbers": [
+        "EU1870",
+        "EU1869"
+      ],
+      "airlines": [
+        "成都航空"
+      ],
+      "times": [
+        "14:45",
+        "16:10"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Lishui 机场",
+      "iataCode": "LIJ",
+      "latitude": 28.3727,
+      "longitude": 119.839,
+      "region": "CN",
+      "flightNumbers": [
+        "HU7089",
+        "HU7090"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "00:05",
+        "18:15"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Yongzhou Lingling 机场",
+      "iataCode": "LLF",
+      "latitude": 26.338661,
+      "longitude": 111.610043,
+      "region": "CN",
+      "flightNumbers": [
+        "9H6005",
+        "9H6006"
+      ],
+      "airlines": [
+        "H"
+      ],
+      "times": [
+        "17:50",
+        "18:50"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "芽庄",
+      "iataCode": "CXR",
+      "latitude": 12.227,
+      "longitude": 109.1923,
+      "region": "越南",
+      "flightNumbers": [
+        "HU716",
+        "HU715"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "10:25",
+        "19:25"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Hengyang Nanyue 机场",
+      "iataCode": "HNY",
+      "latitude": 26.72208,
+      "longitude": 112.617958,
+      "region": "CN",
+      "flightNumbers": [
+        "GS7827",
+        "GS7828"
+      ],
+      "airlines": [
+        "天津航空"
+      ],
+      "times": [
+        "18:55",
+        "19:05"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Jinggangshan 机场",
+      "iataCode": "JGS",
+      "latitude": 26.856899,
+      "longitude": 114.737,
+      "region": "CN",
+      "flightNumbers": [
+        "FM9269",
+        "FM9270"
+      ],
+      "airlines": [
+        "FM"
+      ],
+      "times": [
+        "13:50",
+        "14:55"
+      ],
+      "flightType": "both",
+      "departures": 1,
+      "arrivals": 1,
+      "total": 2
+    },
+    {
+      "cityName": "Wattay International Airport",
+      "iataCode": "VTE",
+      "latitude": 17.985052,
+      "longitude": 102.566692,
+      "region": "LA",
+      "flightNumbers": [
+        "HU462"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "00:30"
+      ],
+      "flightType": "arrival",
+      "departures": 0,
+      "arrivals": 1,
+      "total": 1
+    },
+    {
+      "cityName": "雅加达",
+      "iataCode": "CGK",
+      "latitude": -6.1256,
+      "longitude": 106.6559,
+      "region": "印尼",
+      "flightNumbers": [
+        "HU702"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "01:05"
+      ],
+      "flightType": "arrival",
+      "departures": 0,
+      "arrivals": 1,
+      "total": 1
+    },
+    {
+      "cityName": "首尔仁川",
+      "iataCode": "ICN",
+      "latitude": 37.4602,
+      "longitude": 126.4407,
+      "region": "韩国",
+      "flightNumbers": [
+        "HU449"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "15:20"
+      ],
+      "flightType": "departure",
+      "departures": 1,
+      "arrivals": 0,
+      "total": 1
+    },
+    {
+      "cityName": "Dubai International Airport",
+      "iataCode": "DXB",
+      "latitude": 25.24979,
+      "longitude": 55.370992,
+      "region": "AE",
+      "flightNumbers": [
+        "HU735"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "16:20"
+      ],
+      "flightType": "departure",
+      "departures": 1,
+      "arrivals": 0,
+      "total": 1
+    },
+    {
+      "cityName": "胡志明",
+      "iataCode": "SGN",
+      "latitude": 10.8188,
+      "longitude": 106.652,
+      "region": "越南",
+      "flightNumbers": [
+        "HU767"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "20:30"
+      ],
+      "flightType": "departure",
+      "departures": 1,
+      "arrivals": 0,
+      "total": 1
+    },
+    {
+      "cityName": "Melbourne Airport",
+      "iataCode": "MEL",
+      "latitude": -37.670732,
+      "longitude": 144.837898,
+      "region": "AU",
+      "flightNumbers": [
+        "HU483"
+      ],
+      "airlines": [
+        "海南航空"
+      ],
+      "times": [
+        "02:35"
+      ],
+      "flightType": "departure",
+      "departures": 1,
+      "arrivals": 0,
+      "total": 1
+    }
+  ]
+}
